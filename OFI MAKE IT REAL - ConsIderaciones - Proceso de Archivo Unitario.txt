@@ -1,0 +1,12 @@
+
+CONSIDERACIONES 
+
+1.-Se consideran hojas tamaño carta y oficio 
+2.-hojas por un solo lado (una sola imagen por hoja)
+3.- Para la destrucción se considera que las cajas cliente pesen aprox 25 kg x caja 
+4.- para el preparado y restaurado se considera proceso sencillo el cual contendra solo
+elementos de sujección  como clips y grapas unicamente.
+5.- El cliente debera de indicar y marcar las cajas que seran para destrucción y para 
+processamiento de archivo unitario (no se contempla la segregación de expedientes)
+6.- Se consideran 2 transportes para cada recolección  (1ra recolección de hasta 300 cajas cliente y 2da recolección de hasta 67 cajas cliente)
+se unifican los precios de transporte se presenta la propuesta como "x1 viaje por sede" 
